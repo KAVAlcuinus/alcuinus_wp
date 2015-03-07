@@ -71,25 +71,25 @@ input.form-control:focus, textarea.form-control:focus {
     outline: none;
 }
 
-.i  {
+.i {
     font-style: italic;
 }
-.b  {
+.b {
     font-weight: 700;
 }
-.u  {
+.u {
     text-decoration: underline;
 }
-a   {
+a {
     transition: all 0.2s;
 }
-a:not(#homelinkheader):hover, a:not(#homelinkheader):focus, a:not(#homelinkheader):active   {
+a:not(#homelinkheader):hover, a:not(#homelinkheader):focus, a:not(#homelinkheader):active {
     background-color: rgba(255, 213, 15, 0.7);/*#ffd50f;*/
     text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Lora", serif;
+    font-family: "Lora", "Georgia", serif;
     text-align: left !important;
 }
 h1 {
@@ -124,7 +124,7 @@ dl {
     padding-right: 10px;
     margin-bottom: 10px;
 }
-dd  {
+dd {
     margin-bottom: 5px;
 }
 blockquote  {
