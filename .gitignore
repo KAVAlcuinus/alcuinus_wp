@@ -8,6 +8,7 @@ wp-content/backup-db/
 wp-content/backups/
 wp-content/blogs.dir/
 wp-content/cache/
+wp-content/themes/twentyfifteen/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
